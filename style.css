@@ -1,0 +1,19 @@
+h3 {
+  color: pink;
+}
+
+#greycol {
+  color: grey;
+}
+
+div > p {
+  color: red;
+}
+
+.text-box > p:last-of-type {
+  color: yellow;
+}
+
+.text-box > p:nth-of-type {
+  color: green;
+}
